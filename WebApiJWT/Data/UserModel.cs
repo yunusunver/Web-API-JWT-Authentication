@@ -9,5 +9,6 @@ namespace WebApiJWT.Data
     {
         public string Username { get; set; }
         public string  EmailAdress { get; set; }
+        public DateTime DateOfJoing { get;  set; }
     }
 }
